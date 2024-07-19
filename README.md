@@ -1,6 +1,7 @@
 # InstacartAnalysis-Python-Project
 
-;alsdjf
+## Objective and context
+In this Instacart grocery analysis, the well-established company is looking to discover more information about its sales patterns. The stakeholders of the company want a breakdown of their client base and their ordering habits. Assuming every demographic cannot be targeted in the same way, they are contemplating a marketing campaign that will customize ad messages to specific groups in hopes that they will have a positive effect on sales. 
 
 ## Key Questions
 * The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
@@ -15,3 +16,7 @@
     + What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
     + What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products 
       customers are ordering, and anything else you can think of.
+
+## Tools
+Python, Jupyter Notebooks, and the pandas, numpy, os, seaborn, matplotlib, and scipy, libraries were all utilized in this analysis. See the project brief in the 'Project Management' folder to find the data sets used as well as a data dictionary.
+
